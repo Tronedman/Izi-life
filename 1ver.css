@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://img5.goodfon.ru/wallpaper/nbig/4/23/kuby-figury-cube-figures-fon-blue-yellow-fon-sinii.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 96.5vh;
+    min-width: 100vh;
+
+}
+.curtain{
+    display: inline-block;
+    width: 98.5%;
+    max-width: 91.5%;
+    height: 5vh;
+    border: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color:rgb(184, 129, 26);
+    
+}
+
+.text{
+    font-size: 2vh;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    margin-left: 10vh; 
+    margin-top: 0.5vh;
+    float: left;
+    color: rgb(0, 0, 0);
+    width: 10vh ;
+    height: 4vh ;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.text:hover{
+    border-radius: 20px;
+    background-color: blue;
+    transition: 0.7s;
+}
+
